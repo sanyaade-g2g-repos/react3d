@@ -26,3 +26,6 @@ http://www.siggraph.org/education/materials/HyperGraph/animation/anim1.htm
     Procedural is what we're trying to cover.
 
 So... I'm probably not the best person to design this system... whee.  Hence the reason I'm just gathering links, I'm not even doing research yet.
+
+<BR>
+http://www.gamedev.net/community/forums/topic.asp?topic_id=497472
