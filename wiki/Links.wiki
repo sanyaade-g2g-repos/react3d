@@ -29,3 +29,7 @@ So... I'm probably not the best person to design this system... whee.  Hence the
 
 <BR>
 http://www.gamedev.net/community/forums/topic.asp?topic_id=497472
+
+http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-838Algorithms-for-Computer-AnimationFall2002/CourseHome/
+
+And some source we shouldn't need... but for anyone who is rigging characters. (which comes after the system is working). http://www.mit.edu/~ibaran/autorig/
