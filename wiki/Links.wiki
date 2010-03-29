@@ -4,7 +4,7 @@
 
 Add your content here.
 
-http://www.teknikus.dk/tj/gdc2001.htm
+http://www.teknikus.dk/tj/gdc2001.htm <br>
 http://www.insomniacgames.com/tech/articles/0108/files/ragdolls_and_IK_%28public%29.pdf
 
 
@@ -14,3 +14,15 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+3 possible bridges...
+Dynamic: It interacts with a physics object that can have forces act upon it.
+   Actually, a rather poor idea, we'd ideally like to do collision detection first and not do this all the time.
+
+Passing: It passes a resulting pose.
+   Also a terrible idea directly...
+IK: Uses inverse kinematics... basically... there is nothing to pose.
+http://www.siggraph.org/education/materials/HyperGraph/animation/anim1.htm
+    Procedural is what we're trying to cover.
+
+So... I'm probably not the best person to design this system... whee.  Hence the reason I'm just gathering links, I'm not even doing research yet.
