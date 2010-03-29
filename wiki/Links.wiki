@@ -5,6 +5,7 @@
 Add your content here.
 
 http://www.teknikus.dk/tj/gdc2001.htm
+http://www.insomniacgames.com/tech/articles/0108/files/ragdolls_and_IK_%28public%29.pdf
 
 
 = Details =
