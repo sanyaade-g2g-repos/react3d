@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#summary Here are some relevant links, mostly research to explore.
 
 = Introduction =
 
-Add your content here.
+Todo: write introduction text...
 
 http://www.teknikus.dk/tj/gdc2001.htm <br>
 http://www.insomniacgames.com/tech/articles/0108/files/ragdolls_and_IK_%28public%29.pdf
@@ -33,3 +33,13 @@ http://www.gamedev.net/community/forums/topic.asp?topic_id=497472
 http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-838Algorithms-for-Computer-AnimationFall2002/CourseHome/
 
 And some source we shouldn't need... but for anyone who is rigging characters. (which comes after the system is working). http://www.mit.edu/~ibaran/autorig/
+
+List of potentially relevant google code projects:
+http://code.google.com/p/skeleton-animation/
+http://code.google.com/p/bones-animation/
+http://code.google.com/p/stage-animation-physique/
+http://code.google.com/p/character-system/
+http://code.google.com/p/bonelib/
+http://code.google.com/p/2d-tryout/
+http://code.google.com/p/md5importer/
+http://code.google.com/p/openik/
