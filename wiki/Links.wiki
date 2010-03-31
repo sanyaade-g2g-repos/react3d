@@ -35,11 +35,11 @@ http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-838Algor
 And some source we shouldn't need... but for anyone who is rigging characters. (which comes after the system is working). http://www.mit.edu/~ibaran/autorig/
 
 List of potentially relevant google code projects:
-http://code.google.com/p/skeleton-animation/
-http://code.google.com/p/bones-animation/
-http://code.google.com/p/stage-animation-physique/
-http://code.google.com/p/character-system/
-http://code.google.com/p/bonelib/
-http://code.google.com/p/2d-tryout/
-http://code.google.com/p/md5importer/
-http://code.google.com/p/openik/
+  * http://code.google.com/p/skeleton-animation/
+  * http://code.google.com/p/bones-animation/
+  * http://code.google.com/p/stage-animation-physique/
+  * http://code.google.com/p/character-system/
+  * http://code.google.com/p/bonelib/
+  * http://code.google.com/p/2d-tryout/
+  * http://code.google.com/p/md5importer/
+  * http://code.google.com/p/openik/
