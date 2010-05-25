@@ -1,0 +1,14 @@
+#summary A list of libraries that React3D does/should bridge to.
+
+= Libraries React3D Currently Bridges To =
+
+A list of what support has been added for so far:
+  * CAL3D
+  * [http://ode.org/ Open Dynamics Engine] (ODE), a popular open-source 3D rigid body physics library
+  * OpenSceneGraph
+
+= Libraries React3D Should Bridge To =
+
+Everyone, feel free to add your suggestions here:
+  * [http://code.google.com/p/chipmunk-physics/ Chipmunk], a 2D rigid body physics library
+  * Add more suggestions here!
